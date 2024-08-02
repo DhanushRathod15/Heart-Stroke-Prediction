@@ -18,8 +18,8 @@ websockets==10.3
 wincertstore==0.2
 neuro-mf==0.0.5
 Jinja2==3.1.2
-catboost==1.1
+catboost==1.2.5
 scikit-learn==1.1.2
 python-multipart==0.0.5
-PyYAML==6.0
+pyyaml==5.4.1
 -e .
